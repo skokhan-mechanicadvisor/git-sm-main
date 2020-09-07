@@ -1,0 +1,4 @@
+[submodule "shared-lib1"]
+	path = shared-lib1
+	url = git@github.com:skokhan-mechanicadvisor/git-sm-shared.git
+	branch = feature1
